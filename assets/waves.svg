@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 140" width="840" role="img" aria-label="Aegean waves — Muğla, Türkiye">
+  <defs>
+    <clipPath id="c"><rect width="840" height="140" rx="10"/></clipPath>
+  </defs>
+  <text x="420" y="30" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8b949e">Muğla, Türkiye · 37.22°N 28.36°E · on the Aegean coast</text>
+  <g clip-path="url(#c)">
+  <path d="M0,78 q70.0,-14 140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 t140,0 V140 H0 Z" fill="#38bdf8" fill-opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-280 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,90 q52.5,-11 105,0 t105,0 t105,0 t105,0 t105,0 t105,0 t105,0 t105,0 t105,0 t105,0 t105,0 t105,0 V140 H0 Z" fill="#0ea5e9" fill-opacity="0.55">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-210 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,102 q42.0,-8 84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 t84,0 V140 H0 Z" fill="#0369a1" fill-opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-168 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  </g>
+</svg>
