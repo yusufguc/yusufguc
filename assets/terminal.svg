@@ -60,7 +60,7 @@
   <text x="40" y="252" class="c" clip-path="url(#t3)">./now.sh</text>
   <g class="o">
     <animate attributeName="opacity" to="1" begin="5.1s" dur="0.15s" fill="freeze"/>
-    <text x="24" y="276"><tspan class="a">▸</tspan><tspan class="v" x="44">learning Kafka and Redis in depth, one Docker lab at a time</tspan></text>
+    <text x="24" y="276"><tspan class="a">▸</tspan><tspan class="v" x="44">moving from backend toward DevOps: containers, CI/CD, infra</tspan></text>
   </g>
   <g class="o">
     <animate attributeName="opacity" to="1" begin="5.3s" dur="0.15s" fill="freeze"/>

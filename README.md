@@ -23,7 +23,7 @@ I'm a 3rd-year student at **Muğla Sıtkı Koçman University** who likes the pa
 I learn by building. Each new topic becomes a project that runs against a real Docker Compose stack, and the bugs I hit on the way (N+1 queries, consumer-group mistakes, cache invalidation) stay in the commit history instead of being hidden.
 
 - 🔭 Building event-driven APIs with **Spring Boot** and **Go**
-- 🌱 Going deeper into **Kafka** and **Redis**
+- 🌱 Growing from backend toward **DevOps**: containers, CI/CD and the infrastructure that keeps services running
 - 🎯 Looking for a backend **internship**
 - 📫 Reach me at [gucyusuff@gmail.com](mailto:gucyusuff@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/yusufguc/)
 
