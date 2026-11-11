@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="mailto:gucyusuff@gmail.com"><img src="https://img.shields.io/badge/gucyusuff%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yusufguc/"><img src="https://img.shields.io/badge/in%2Fyusufguc-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Mu%C4%9Fla%2C%20T%C3%BCrkiye-0d1117?style=for-the-badge&logo=googlemaps&logoColor=22c55e" alt="Muğla, Türkiye">
   <img src="https://img.shields.io/badge/open%20to-internships-0d1117?style=for-the-badge&logo=target&logoColor=f0b429" alt="Open to internships">
 </p>
@@ -24,7 +25,7 @@ I learn by building. Each new topic becomes a project that runs against a real D
 - 🔭 Building event-driven APIs with **Spring Boot** and **Go**
 - 🌱 Going deeper into **Kafka** and **Redis**
 - 🎯 Looking for a backend **internship**
-- 📫 Reach me at [gucyusuff@gmail.com](mailto:gucyusuff@gmail.com)
+- 📫 Reach me at [gucyusuff@gmail.com](mailto:gucyusuff@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/yusufguc/)
 
 ## Tech I work with
 
