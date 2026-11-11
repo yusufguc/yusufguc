@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/terminal.svg" alt="Yusuf Güç — backend developer, 3rd-year student at Muğla Sıtkı Koçman University, Muğla, Türkiye" width="840">
+  <img src="assets/terminal.svg" alt="Yusuf Güç — 3rd-year student at Muğla Sıtkı Koçman University, Muğla, Türkiye" width="840">
 </div>
 
 <p align="center">
@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Mu%C4%9Fla%2C%20T%C3%BCrkiye-0d1117?style=for-the-badge&logo=googlemaps&logoColor=22c55e" alt="Muğla, Türkiye">
   <img src="https://img.shields.io/badge/open%20to-internships-0d1117?style=for-the-badge&logo=target&logoColor=f0b429" alt="Open to internships">
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+    <img src="assets/snake.svg" alt="Contribution graph being eaten by a snake" width="840">
+  </picture>
+</div>
 
 ## About
 
@@ -40,26 +47,6 @@ Not public yet, still being polished:
 - **bankflow-api** — fintech backend: distributed transactions, idempotency, fraud detection, multi-currency accounts (Spring Boot)
 - **gymflow-api** — gym management with Redis locks, Kafka events and QR check-in (Go)
 - **chat-api** — real-time WebSocket chat (Go)
-
-## Roadmap
-
-- [x] Java and Spring Boot fundamentals
-- [x] PostgreSQL, JPA, Flyway
-- [x] Docker and Docker Compose
-- [x] First event-driven system with Kafka
-- [x] Go, Fiber and GORM
-- [ ] Redis at scale
-- [ ] Kubernetes
-- [ ] First internship
-
-## Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-    <img src="assets/snake.svg" alt="Contribution graph being eaten by a snake" width="840">
-  </picture>
-</div>
 
 <div align="center">
   <img src="assets/waves.svg" alt="Aegean waves — Muğla, Türkiye" width="840">
